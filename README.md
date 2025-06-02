@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Projects
-### [www.mvpteamprovder.com](https://mvpteamprovider.com/)
+### [www.mvpteamprovider.com](https://mvpteamprovider.com/)
 - Web Development
 - UI/UX Design
 
