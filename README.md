@@ -1,9 +1,10 @@
 # Portfolio
 
 ## Projects
-### Project 1
-- Description
-- [Github Repository](https://github.com/dpom93/RShiny_for_athlete_monitoring)
+### www.mvpteamprovder.com
+- Web Development
+- UI/UX Design
+- https://www.mvpteamprovder.com
 
 ### Project 2
 - Description
@@ -15,3 +16,18 @@
 # Work History
 - Workplace 1
 - Workplace 2
+
+
+www.mvpteamprovder.com
+www.wlimproducts.com
+www.bmsaccesssupport.com 
+www.boa.com
+www.moblty.com www.berkelycollege.edu www.braensupply.com
+www.drinkcoffee.com
+www.agilexfragrances.com
+mwww.grahamcc.com 
+www.publicvoiceny.com 
+www.islandrose.com.ph 
+www.kaisa.com
+www.motolite.com 
+www.fpi.ph
