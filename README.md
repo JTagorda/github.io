@@ -3,7 +3,7 @@
 ## Projects
 ### [www.mvpteamprovider.com](https://mvpteamprovider.com/)
 - Web Development
-- UI/UX Design
+- UX/UI Design
 
 ### Project 2
 - Description
